@@ -148,4 +148,3 @@ This simulates a continuous learning pipeline similar to real-world ML systems.
 
 Kunal Mankar  
 B.Tech Computer Science Engineering  
-Hackathon 3 Submission
